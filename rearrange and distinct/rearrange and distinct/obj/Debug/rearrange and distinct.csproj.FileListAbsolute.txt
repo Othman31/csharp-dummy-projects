@@ -1,0 +1,6 @@
+C:\Users\Madaramé\Documents\GitHubRepository\csharp-dummy-projects\rearrange and distinct\rearrange and distinct\bin\Debug\sort and distinct.exe
+C:\Users\Madaramé\Documents\GitHubRepository\csharp-dummy-projects\rearrange and distinct\rearrange and distinct\bin\Debug\sort and distinct.pdb
+C:\Users\Madaramé\Documents\GitHubRepository\csharp-dummy-projects\rearrange and distinct\rearrange and distinct\bin\Debug\sort and distinct.exe.CodeAnalysisLog.xml
+C:\Users\Madaramé\Documents\GitHubRepository\csharp-dummy-projects\rearrange and distinct\rearrange and distinct\bin\Debug\sort and distinct.exe.lastcodeanalysissucceeded
+C:\Users\Madaramé\Documents\GitHubRepository\csharp-dummy-projects\rearrange and distinct\rearrange and distinct\obj\Debug\sort and distinct.exe
+C:\Users\Madaramé\Documents\GitHubRepository\csharp-dummy-projects\rearrange and distinct\rearrange and distinct\obj\Debug\sort and distinct.pdb
